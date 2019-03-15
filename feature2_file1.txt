@@ -1,2 +1,2 @@
-This is feature 2 - line 1.
-This is feature 2 - line 2.
+This is feature 2 - line 1 - added in feature 3
+This is feature 2 - line 2 - added in feature 3
